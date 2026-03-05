@@ -35,7 +35,7 @@ IEEE Transactions on Industrial Informatics (TII) 2026 [[paper](https://doi.org/
 <!-- [[dataset](https://doi.org/10.6084/m9.figshare.28938005)] --> 
 - **FASMNet: A Lightweight Frequency-Aware Split-Modulation Network for Efficient Image Super-Resolution**  
 **Hong Yang**, Ruohong Xu, and Xianqiang Yang  
-IEEE Transactions on Multimedia (TMM) 2026 [[paper](https://young1008.github.io//)] 
+IEEE Transactions on Multimedia (TMM) 2026 [[paper](https://oung-26.github.io//)] 
 - **Self-supervised Structured Illumination Microscopy Image Denoising Based on Multiresolution Analysis Resampling**  
 **Hong Yang** and Xianqiang Yang  
 IEEE Transactions on Instrumentation and Measurement (TIM) 2025 [[paper](https://doi.org/10.1109/TIM.2025.3575962)]  
