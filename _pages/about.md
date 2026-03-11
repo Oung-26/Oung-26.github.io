@@ -36,10 +36,10 @@ IEEE Transactions on Industrial Informatics (TII) 2026 [[paper](https://doi.org/
 - **FASMNet: A Lightweight Frequency-Aware Split-Modulation Network for Efficient Image Super-Resolution**  
 **Hong Yang**, Ruohong Xu, and Xianqiang Yang  
 IEEE Transactions on Multimedia (TMM) 2026 [[paper](https://oung-26.github.io//)] 
-- **Self-supervised Structured Illumination Microscopy Image Denoising Based on Multiresolution Analysis Resampling**  
+- **Self-Supervised Structured Illumination Microscopy Image Denoising Based on Multiresolution Analysis Resampling**  
 **Hong Yang** and Xianqiang Yang  
 IEEE Transactions on Instrumentation and Measurement (TIM) 2025 [[paper](https://doi.org/10.1109/TIM.2025.3575962)]  
-- **Physically-inspired self-supervised denoising for structured illumination microscopy via noise decomposition and recorruption**  
+- **Physically-Inspired Self-Supervised Denoising for Structured Illumination Microscopy via Noise Decomposition and Recorruption**  
 **Hong Yang**, Ruohong Xu, and Xianqiang Yang  
 Biomedical Signal Processing and Control 2025 [[paper](https://doi.org/10.1016/j.bspc.2025.108849)]  
 - **Two-Stage Zero-Shot Denoising and Enhancement for Structured Illumination Microscopy**  
@@ -48,7 +48,7 @@ Digital Signal Processing 2025 [[paper](https://doi.org/10.1016/j.dsp.2025.10534
 - **A Type-independent Unknown Parameters Estimation Method for Lead Component**  
 **Hong Yang**, Xinpeng Liu, Weihua Liu, and Xianqiang Yang  
 IECON 2024 - 50th Annual Conference of the IEEE Industrial Electronics Society 2024 [[paper](https://doi.org/10.1109/IECON55916.2024.10905933)]  
-- **Light and wood: A review of optically transparent wood for architectural applications**  
+- **Light and Wood: A Review of Optically Transparent Wood for Architectural Applications**  
 **Hong Yang**, Hang Wang, Taoyang Cai, Shangjie Ge-Zhang, Hongbo Mu  
 Industrial Crops and Products 2023 [[paper](https://doi.org/10.1016/j.indcrop.2023.117287)]  
 - **LMA-DETR: A Multi-Scale Detection Framework for Seed Defect Screening**  
@@ -60,10 +60,10 @@ Biomedical Physics & Engineering Express 2025 [[paper](https://doi.org/10.1088/2
 - **SwinRes: A Hybrid Mmodel that Effectively Diagnoses COVID‐19 through X‐ray Lung Images**  
 Xuanlong He, **Hong Yang**, Jipan Xu, and Hongbo Mu  
 International Journal of Imaging Systems and Technology 2024 [[paper](https://doi.org/10.1002/ima.23107)]  
-- **BACNN: Multi-scale feature fusion-based bilinear attention convolutional neural network for wood NIR classification**  
+- **Bacnn: Multi-scale Feature Fusion-Based Bilinear Attention Convolutional Neural Network for Wood NIR Classification**  
 Zihao Wan, **Hong Yang**, Jipan Xu, Hongbo Mu, and Dawei Qi  
 Journal of Forestry Research 2023 [[paper](https://doi.org/10.1007/s11676-023-01652-z)]  
-- **BO-densenet: A bilinear one-dimensional densenet network based on multi-scale feature fusion for wood NIR classification**  
+- **Bo-Densenet: A Bilinear One-Dimensional Densenet Network Based on Multi-scale Feature Fusion for Wood NIR Classification**  
 Zihao Wan, **Hong Yang**, Jipan Xu, Hongbo Mu, and Dawei Qi  
 Chemometrics and Intelligent Laboratory Systems 2023 [[paper](https://doi.org/10.1016/j.chemolab.2023.104920)]  
 
