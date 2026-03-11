@@ -74,6 +74,7 @@ Activities / Service
 
 **Conference Reviewer:**  
 - IECON (Annual Conference of the IEEE Industrial Electronics Society)
+- CAC (China Automation Congress)
 
 **Journal Reviewer:**  
 - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)  
