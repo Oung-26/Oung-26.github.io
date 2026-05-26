@@ -31,41 +31,41 @@ A **full publication list** is available on [ResearchGate](https://www.researchg
 *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)* 2025 [[paper](https://doi.org/10.1109/TPAMI.2025.3612886)]
 - **PhySISR: A Self-Supervised Super-Resolution Framework for Industrial Vision with Physical Constraints**  
 **Hong Yang**, Zhixiang Jia, Ruohong Xu, and Xianqiang Yang  
-IEEE Transactions on Industrial Informatics (TII) 2026 [[paper](https://doi.org/10.1109/TII.2025.3648386)]
+*IEEE Transactions on Industrial Informatics* (TII) 2026 [[paper](https://doi.org/10.1109/TII.2025.3648386)]
 <!-- [[dataset](https://doi.org/10.6084/m9.figshare.28938005)] --> 
 - **FASMNet: A Lightweight Frequency-Aware Split-Modulation Network for Efficient Image Super-Resolution**  
 **Hong Yang**, Ruohong Xu, and Xianqiang Yang  
-IEEE Transactions on Multimedia (TMM) 2026 [[paper](https://doi.org/10.1109/TMM.2026.3697641)] 
+*IEEE Transactions on Multimedia (TMM)* 2026 [[paper](https://doi.org/10.1109/TMM.2026.3697641)] 
 - **Self-Supervised Structured Illumination Microscopy Image Denoising Based on Multiresolution Analysis Resampling**  
 **Hong Yang** and Xianqiang Yang  
-IEEE Transactions on Instrumentation and Measurement (TIM) 2025 [[paper](https://doi.org/10.1109/TIM.2025.3575962)]  
+*IEEE Transactions on Instrumentation and Measurement (TIM)* 2025 [[paper](https://doi.org/10.1109/TIM.2025.3575962)]  
 - **Physically-Inspired Self-Supervised Denoising for Structured Illumination Microscopy via Noise Decomposition and Recorruption**  
 **Hong Yang**, Ruohong Xu, and Xianqiang Yang  
-Biomedical Signal Processing and Control 2025 [[paper](https://doi.org/10.1016/j.bspc.2025.108849)]  
+*Biomedical Signal Processing and Control* 2025 [[paper](https://doi.org/10.1016/j.bspc.2025.108849)]  
 - **Two-Stage Zero-Shot Denoising and Enhancement for Structured Illumination Microscopy**  
 **Hong Yang** and Xianqiang Yang  
-Digital Signal Processing 2025 [[paper](https://doi.org/10.1016/j.dsp.2025.105345)]  
+*Digital Signal Processing* 2025 [[paper](https://doi.org/10.1016/j.dsp.2025.105345)]  
 - **A Type-independent Unknown Parameters Estimation Method for Lead Component**  
 **Hong Yang**, Xinpeng Liu, Weihua Liu, and Xianqiang Yang  
-IECON 2024 - 50th Annual Conference of the IEEE Industrial Electronics Society 2024 [[paper](https://doi.org/10.1109/IECON55916.2024.10905933)]  
+*IECON* 2024 - 50th Annual Conference of the IEEE Industrial Electronics Society 2024 [[paper](https://doi.org/10.1109/IECON55916.2024.10905933)]  
 - **Light and Wood: A Review of Optically Transparent Wood for Architectural Applications**  
 **Hong Yang**, Hang Wang, Taoyang Cai, Shangjie Ge-Zhang, Hongbo Mu  
-Industrial Crops and Products 2023 [[paper](https://doi.org/10.1016/j.indcrop.2023.117287)]  
+*Industrial Crops and Products* 2023 [[paper](https://doi.org/10.1016/j.indcrop.2023.117287)]  
 - **LMA-DETR: A Multi-Scale Detection Framework for Seed Defect Screening**  
 Hao Li, **Hong Yang**, Zhuqi Li, Wangyu Wu, Dongkui Chen, Xuanlong He, and Hongbo Mu  
-Digital Signal Processing 2025 [[paper](https://doi.org/10.1016/j.dsp.2025.105639)]  
+*Digital Signal Processing* 2025 [[paper](https://doi.org/10.1016/j.dsp.2025.105639)]  
 - **MRI-based Diagnostic Model for Alzheimer’s Disease Using 3D-ResNet**  
 Dongkui Chen, **Hong Yang**, Hao Li, Xuanlong He, and Hongbo Mu  
-Biomedical Physics & Engineering Express 2025 [[paper](https://doi.org/10.1088/2057-1976/add73d)]  
+*Biomedical Physics & Engineering Express* 2025 [[paper](https://doi.org/10.1088/2057-1976/add73d)]  
 - **SwinRes: A Hybrid Mmodel that Effectively Diagnoses COVID‐19 through X‐ray Lung Images**  
 Xuanlong He, **Hong Yang**, Jipan Xu, and Hongbo Mu  
-International Journal of Imaging Systems and Technology 2024 [[paper](https://doi.org/10.1002/ima.23107)]  
+*International Journal of Imaging Systems and Technology* 2024 [[paper](https://doi.org/10.1002/ima.23107)]  
 - **Bacnn: Multi-scale Feature Fusion-Based Bilinear Attention Convolutional Neural Network for Wood NIR Classification**  
 Zihao Wan, **Hong Yang**, Jipan Xu, Hongbo Mu, and Dawei Qi  
-Journal of Forestry Research 2023 [[paper](https://doi.org/10.1007/s11676-023-01652-z)]  
+*Journal of Forestry Research* 2023 [[paper](https://doi.org/10.1007/s11676-023-01652-z)]  
 - **Bo-Densenet: A Bilinear One-Dimensional Densenet Network Based on Multi-scale Feature Fusion for Wood NIR Classification**  
 Zihao Wan, **Hong Yang**, Jipan Xu, Hongbo Mu, and Dawei Qi  
-Chemometrics and Intelligent Laboratory Systems 2023 [[paper](https://doi.org/10.1016/j.chemolab.2023.104920)]  
+*Chemometrics and Intelligent Laboratory Systems* 2023 [[paper](https://doi.org/10.1016/j.chemolab.2023.104920)]  
 
 Activities / Service
 ======
