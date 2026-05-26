@@ -31,7 +31,7 @@ A **full publication list** is available on [ResearchGate](https://www.researchg
 *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)* 2025 [[paper](https://doi.org/10.1109/TPAMI.2025.3612886)]
 - **PhySISR: A Self-Supervised Super-Resolution Framework for Industrial Vision with Physical Constraints**  
 **Hong Yang**, Zhixiang Jia, Ruohong Xu, and Xianqiang Yang  
-*IEEE Transactions on Industrial Informatics* (TII) 2026 [[paper](https://doi.org/10.1109/TII.2025.3648386)]
+*IEEE Transactions on Industrial Informatics (TII)* 2026 [[paper](https://doi.org/10.1109/TII.2025.3648386)]
 <!-- [[dataset](https://doi.org/10.6084/m9.figshare.28938005)] --> 
 - **FASMNet: A Lightweight Frequency-Aware Split-Modulation Network for Efficient Image Super-Resolution**  
 **Hong Yang**, Ruohong Xu, and Xianqiang Yang  
