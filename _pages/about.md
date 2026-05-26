@@ -22,9 +22,9 @@ News
 - [2025.09] One paper is accepted by IEEE TPAMI.
 - [2025.05] One paper is accepted by IEEE TIM.
 
-Publications
+Representative Publication List
 ======
-A full publication list is available on [ResearchGate](https://www.researchgate.net/profile/Hong-Yang-72) and [Google Scholar](https://scholar.google.com/citations?user=vUwsiJ4AAAAJ&hl=en).
+A **full publication list** is available on [ResearchGate](https://www.researchgate.net/profile/Hong-Yang-72) and [Google Scholar](https://scholar.google.com/citations?user=vUwsiJ4AAAAJ&hl=en).
 
 - **Zero-Shot Learning for Limited Photon Budget Denoising in Structured Illumination Microscopy**  
 **Hong Yang** and Xianqiang Yang  
@@ -89,5 +89,5 @@ Activities / Service
 - Optics & Laser Technology (OLT)  
 - Pattern Recognition Letters  
 - Alexandria Engineering Journal  
-- Signal Processing: Image Communication  
+- Signal Processing: Image Communication
 
