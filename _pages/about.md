@@ -34,6 +34,9 @@ A ***full publication list*** is available on [ResearchGate](https://www.researc
 **Hong Yang**, Zhixiang Jia, Ruohong Xu, and Xianqiang Yang  
 *IEEE Transactions on Industrial Informatics (TII)* 2026 [[paper](https://doi.org/10.1109/TII.2025.3648386)]
 <!-- [[dataset](https://doi.org/10.6084/m9.figshare.28938005)] --> 
+- **Spatially Adaptive Vision Mamba for Efficient Industrial Image Super-Resolution**  
+**Hong Yang**, Zhixiang Jia, Zhenghan Ding, Weihua Liu, and Xianqiang Yang  
+*IEEE Transactions on Industrial Informatics (TII)* 2026 [[paper](https://doi.org/10.1109/TII.2026.3699019)]
 - **FASMNet: A Lightweight Frequency-Aware Split-Modulation Network for Efficient Image Super-Resolution**  
 **Hong Yang**, Ruohong Xu, and Xianqiang Yang  
 *IEEE Transactions on Multimedia (TMM)* 2026 [[paper](https://doi.org/10.1109/TMM.2026.3697641)] 
