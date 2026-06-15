@@ -98,12 +98,22 @@ A ***full publication list*** is available on [ResearchGate](https://www.researc
 </div>
 </div>
 
-- **Physically-Inspired Self-Supervised Denoising for Structured Illumination Microscopy via Noise Decomposition and Recorruption**  
+**Physically-Inspired Self-Supervised Denoising for Structured Illumination Microscopy via Noise Decomposition and Recorruption**  
+
 **Hong Yang**, Ruohong Xu, and Xianqiang Yang  
-*Biomedical Signal Processing and Control* 2025 [[paper](https://doi.org/10.1016/j.bspc.2025.108849)]  
-- **Two-Stage Zero-Shot Denoising and Enhancement for Structured Illumination Microscopy**  
+
+***Biomedical Signal Processing and Control, 2025***
+
+[paper](https://doi.org/10.1016/j.bspc.2025.108849)
+
+**Two-Stage Zero-Shot Denoising and Enhancement for Structured Illumination Microscopy**  
+
 **Hong Yang** and Xianqiang Yang  
-*Digital Signal Processing* 2025 [[paper](https://doi.org/10.1016/j.dsp.2025.105345)]  
+
+***Digital Signal Processing, 2025***
+
+[paper](https://doi.org/10.1016/j.dsp.2025.105345)
+
 - **A Type-independent Unknown Parameters Estimation Method for Lead Component**  
 **Hong Yang**, Xinpeng Liu, Weihua Liu, and Xianqiang Yang  
 *IECON* 2024 - 50th Annual Conference of the IEEE Industrial Electronics Society 2024 [[paper](https://doi.org/10.1109/IECON55916.2024.10905933)]  
