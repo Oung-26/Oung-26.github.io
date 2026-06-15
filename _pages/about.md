@@ -56,15 +56,48 @@ A ***full publication list*** is available on [ResearchGate](https://www.researc
 </div>
 <!-- [[dataset](https://doi.org/10.6084/m9.figshare.28938005)] --> 
 
-- **Spatially Adaptive Vision Mamba for Efficient Industrial Image Super-Resolution**  
-**Hong Yang**, Zhixiang Jia, Zhenghan Ding, Weihua Liu, and Xianqiang Yang  
-*IEEE Transactions on Industrial Informatics (TII)* 2026 [[paper](https://doi.org/10.1109/TII.2026.3699019)]
-- **FASMNet: A Lightweight Frequency-Aware Split-Modulation Network for Efficient Image Super-Resolution**  
-**Hong Yang**, Ruohong Xu, and Xianqiang Yang  
-*IEEE Transactions on Multimedia (TMM)* 2026 [[paper](https://doi.org/10.1109/TMM.2026.3697641)] 
-- **Self-Supervised Structured Illumination Microscopy Image Denoising Based on Multiresolution Analysis Resampling**  
-**Hong Yang** and Xianqiang Yang  
-*IEEE Transactions on Instrumentation and Measurement (TIM)* 2025 [[paper](https://doi.org/10.1109/TIM.2025.3575962)]  
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TII 2026</div><img src='images/framework/tiisamambasr.png' alt="SAMambaSR" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Spatially Adaptive Vision Mamba for Efficient Industrial Image Super-Resolution**
+
+**Hong Yang**, Zhixiang Jia, Zhenghan Ding, Weihua Liu, and Xianqiang Yang
+
+***IEEE Transactions on Industrial Informatics (TII), 2026***
+
+[Paper](https://doi.org/10.1109/TII.2026.3699019)
+- An efficient Mamba-based super-resolution model that uses correlation-guided readout modulation to preserve fine industrial structures with low computational cost.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2026</div><img src='images/framework/tmm.png' alt="FASMNet" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**FASMNet: A Lightweight Frequency-Aware Split-Modulation Network for Efficient Image Super-Resolution**
+
+**Hong Yang**, Zhixiang Jia, Ruohong Xu, and Xianqiang Yang
+
+***IEEE Transactions on Multimedia (TMM), 2026***
+
+[Paper](https://doi.org/10.1109/TMM.2026.3697641)
+- A compact frequency-aware super-resolution network that dynamically modulates high-, mid-, and low-frequency features for efficient detail recovery.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM 2025</div><img src='images/framework/tim.png' alt="MRS-SIM" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Self-Supervised Structured Illumination Microscopy Image Denoising Based on Multiresolution Analysis Resampling**
+
+**Hong Yang** and Xianqiang Yang
+
+***IEEE Transactions on Instrumentation and Measurement (TIM), 2025***
+
+[Paper](https://doi.org/10.1109/TIM.2025.3575962)
+- A self-supervised SIM denoising method that uses multiresolution-analysis resampling to build training pairs from noisy low-light microscopy data.
+</div>
+</div>
+
 - **Physically-Inspired Self-Supervised Denoising for Structured Illumination Microscopy via Noise Decomposition and Recorruption**  
 **Hong Yang**, Ruohong Xu, and Xianqiang Yang  
 *Biomedical Signal Processing and Control* 2025 [[paper](https://doi.org/10.1016/j.bspc.2025.108849)]  
