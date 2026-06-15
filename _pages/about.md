@@ -84,7 +84,7 @@ Zihao Wan, **Hong Yang**, Jipan Xu, Hongbo Mu, and Dawei Qi
 💻 Activities / Service
 ======
 **Professional Membership:**
-- Student Member of **IEEE**, **IEEE Industrial Electronics Society (IES)**, **China Society of Image and Graphics (CSIG)**
+- Student Member of **IEEE**, **IEEE Industrial Electronics Society ([IES](https://www.ieee-ies.org/))**, **China Society of Image and Graphics ([CSIG](https://www.csig.org.cn/))**
 
 **Conference Reviewer:**  
 - IECON (Annual Conference of the IEEE Industrial Electronics Society)
