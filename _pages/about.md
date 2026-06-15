@@ -15,7 +15,7 @@ My research interests include computational optical imaging, image restoration a
 I am open to research collaborations. If you are interested in collaboration or academic exchange, feel free to contact me at [yangh23@stu.hit.edu.cn](https://young1008.github.io//).
 
 
-News
+🔥 News
 ======
 - [2026.05] One paper is accepted by IEEE TII.
 - [2026.01] One paper is accepted by IEEE TMM.
@@ -24,7 +24,7 @@ News
 - [2025.09] One paper is accepted by IEEE TPAMI.
 - [2025.05] One paper is accepted by IEEE TIM.
 
-Representative Publication List
+📝 Representative Publication List
 ======
 A ***full publication list*** is available on [ResearchGate](https://www.researchgate.net/profile/Hong-Yang-72) and [Google Scholar](https://scholar.google.com/citations?user=vUwsiJ4AAAAJ&hl=en).
 
@@ -72,7 +72,7 @@ Zihao Wan, **Hong Yang**, Jipan Xu, Hongbo Mu, and Dawei Qi
 Zihao Wan, **Hong Yang**, Jipan Xu, Hongbo Mu, and Dawei Qi  
 *Chemometrics and Intelligent Laboratory Systems* 2023 [[paper](https://doi.org/10.1016/j.chemolab.2023.104920)]  
 
-Activities / Service
+💻 Activities / Service
 ======
 **Professional Membership:**
 - Student Member of **IEEE**, **IEEE Industrial Electronics Society (IES)**, **China Society of Image and Graphics (CSIG)**
