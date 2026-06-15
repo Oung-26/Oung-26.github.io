@@ -27,101 +27,31 @@ I am open to research collaborations. If you are interested in collaboration or 
 ======
 A ***full publication list*** is available on [ResearchGate](https://www.researchgate.net/profile/Hong-Yang-72) and [Google Scholar](https://scholar.google.com/citations?user=vUwsiJ4AAAAJ&hl=en).
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/framework/tpami.png' alt="ZS-SIM" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Zero-Shot Learning for Limited Photon Budget Denoising in Structured Illumination Microscopy**
-
-**Hong Yang** and Xianqiang Yang
-
-***IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025***
-
-[Paper](https://doi.org/10.1109/TPAMI.2025.3612886)
-- A zero-shot SIM denoising framework that trains from a single noisy image stack using SIM-specific resampling and physics-guided self-supervision for low-photon live-cell imaging.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TII 2026</div><img src='images/framework/tiiphysisr.png' alt="PhySISR" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**PhySISR: A Self-Supervised Super-Resolution Framework for Industrial Vision with Physical Constraints**
-
-**Hong Yang**, Ruohong Xu, and Xianqiang Yang
-
-***IEEE Transactions on Industrial Informatics (TII), 2026***
-
-[Paper](https://doi.org/10.1109/TII.2025.3648386)
-- A physics-consistent self-supervised super-resolution framework for industrial vision that restores structural details without labeled data.
-</div>
-</div>
-<!-- [[dataset](https://doi.org/10.6084/m9.figshare.28938005)] --> 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TII 2026</div><img src='images/framework/tiisamambasr.png' alt="SAMambaSR" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Spatially Adaptive Vision Mamba for Efficient Industrial Image Super-Resolution**
-
-**Hong Yang**, Zhixiang Jia, Zhenghan Ding, Weihua Liu, and Xianqiang Yang
-
-***IEEE Transactions on Industrial Informatics (TII), 2026***
-
-[Paper](https://doi.org/10.1109/TII.2026.3699019)
-- An efficient Mamba-based super-resolution model that uses correlation-guided readout modulation to preserve fine industrial structures with low computational cost.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2026</div><img src='images/framework/tmm.png' alt="FASMNet" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**FASMNet: A Lightweight Frequency-Aware Split-Modulation Network for Efficient Image Super-Resolution**
-
-**Hong Yang**, Zhixiang Jia, Ruohong Xu, and Xianqiang Yang
-
-***IEEE Transactions on Multimedia (TMM), 2026***
-
-[Paper](https://doi.org/10.1109/TMM.2026.3697641)
-- A compact frequency-aware super-resolution network that dynamically modulates high-, mid-, and low-frequency features for efficient detail recovery.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM 2025</div><img src='images/framework/tim.png' alt="MRS-SIM" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Self-Supervised Structured Illumination Microscopy Image Denoising Based on Multiresolution Analysis Resampling**
-
-**Hong Yang** and Xianqiang Yang
-
-***IEEE Transactions on Instrumentation and Measurement (TIM), 2025***
-
-[Paper](https://doi.org/10.1109/TIM.2025.3575962)
-- A self-supervised SIM denoising method that uses multiresolution-analysis resampling to build training pairs from noisy low-light microscopy data.
-</div>
-</div>
-
-**Physically-Inspired Self-Supervised Denoising for Structured Illumination Microscopy via Noise Decomposition and Recorruption**  
-
-**Hong Yang**, Ruohong Xu, and Xianqiang Yang  
-
-***Biomedical Signal Processing and Control, 2025***
-
-[paper](https://doi.org/10.1016/j.bspc.2025.108849)
-
-**Two-Stage Zero-Shot Denoising and Enhancement for Structured Illumination Microscopy**  
-
+- **Zero-Shot Learning for Limited Photon Budget Denoising in Structured Illumination Microscopy**  
 **Hong Yang** and Xianqiang Yang  
-
-***Digital Signal Processing, 2025***
-
-[paper](https://doi.org/10.1016/j.dsp.2025.105345)
-
-**A Type-independent Unknown Parameters Estimation Method for Lead Component**  
-
+*IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)* 2025 [[paper](https://doi.org/10.1109/TPAMI.2025.3612886)]
+- **PhySISR: A Self-Supervised Super-Resolution Framework for Industrial Vision with Physical Constraints**  
+**Hong Yang**, Zhixiang Jia, Ruohong Xu, and Xianqiang Yang  
+*IEEE Transactions on Industrial Informatics (TII)* 2026 [[paper](https://doi.org/10.1109/TII.2025.3648386)]
+<!-- [[dataset](https://doi.org/10.6084/m9.figshare.28938005)] --> 
+- **Spatially Adaptive Vision Mamba for Efficient Industrial Image Super-Resolution**  
+**Hong Yang**, Zhixiang Jia, Zhenghan Ding, Weihua Liu, and Xianqiang Yang  
+*IEEE Transactions on Industrial Informatics (TII)* 2026 [[paper](https://doi.org/10.1109/TII.2026.3699019)]
+- **FASMNet: A Lightweight Frequency-Aware Split-Modulation Network for Efficient Image Super-Resolution**  
+**Hong Yang**, Ruohong Xu, and Xianqiang Yang  
+*IEEE Transactions on Multimedia (TMM)* 2026 [[paper](https://doi.org/10.1109/TMM.2026.3697641)] 
+- **Self-Supervised Structured Illumination Microscopy Image Denoising Based on Multiresolution Analysis Resampling**  
+**Hong Yang** and Xianqiang Yang  
+*IEEE Transactions on Instrumentation and Measurement (TIM)* 2025 [[paper](https://doi.org/10.1109/TIM.2025.3575962)]  
+- **Physically-Inspired Self-Supervised Denoising for Structured Illumination Microscopy via Noise Decomposition and Recorruption**  
+**Hong Yang**, Ruohong Xu, and Xianqiang Yang  
+*Biomedical Signal Processing and Control* 2025 [[paper](https://doi.org/10.1016/j.bspc.2025.108849)]  
+- **Two-Stage Zero-Shot Denoising and Enhancement for Structured Illumination Microscopy**  
+**Hong Yang** and Xianqiang Yang  
+*Digital Signal Processing* 2025 [[paper](https://doi.org/10.1016/j.dsp.2025.105345)]  
+- **A Type-independent Unknown Parameters Estimation Method for Lead Component**  
 **Hong Yang**, Xinpeng Liu, Weihua Liu, and Xianqiang Yang  
-
-***IECON 2024 - 50th Annual Conference of the IEEE Industrial Electronics Society 2024***
-
-[paper](https://doi.org/10.1109/IECON55916.2024.10905933)
-
+*IECON* 2024 - 50th Annual Conference of the IEEE Industrial Electronics Society 2024 [[paper](https://doi.org/10.1109/IECON55916.2024.10905933)]  
 - **Light and Wood: A Review of Optically Transparent Wood for Architectural Applications**  
 **Hong Yang**, Hang Wang, Taoyang Cai, Shangjie Ge-Zhang, Hongbo Mu  
 *Industrial Crops and Products* 2023 [[paper](https://doi.org/10.1016/j.indcrop.2023.117287)]  
@@ -164,4 +94,3 @@ Zihao Wan, **Hong Yang**, Jipan Xu, Hongbo Mu, and Dawei Qi
 - Pattern Recognition Letters  
 - Alexandria Engineering Journal  
 - Signal Processing: Image Communication
-
