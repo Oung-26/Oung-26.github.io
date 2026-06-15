@@ -35,30 +35,23 @@ A zero-shot SIM denoising framework that trains from a single noisy image stack 
 - **PhySISR: A Self-Supervised Super-Resolution Framework for Industrial Vision with Physical Constraints**  
 **Hong Yang**, Ruohong Xu, and Xianqiang Yang  
 *IEEE Transactions on Industrial Informatics (TII)* 2026 [[paper](https://doi.org/10.1109/TII.2025.3648386)]  
-- A physics-consistent self-supervised super-resolution framework for industrial vision that restores structural details without labeled data.
-</div>
-</div>
+A physics-consistent self-supervised super-resolution framework for industrial vision that restores structural details without labeled data.
+
 <!-- [[dataset](https://doi.org/10.6084/m9.figshare.28938005)] --> 
 - **Spatially Adaptive Vision Mamba for Efficient Industrial Image Super-Resolution**  
 **Hong Yang**, Zhixiang Jia, Zhenghan Ding, Weihua Liu, and Xianqiang Yang  
 *IEEE Transactions on Industrial Informatics (TII)* 2026 [[paper](https://doi.org/10.1109/TII.2026.3699019)]  
-- An efficient Mamba-based super-resolution model that uses correlation-guided readout modulation to preserve fine industrial structures with low computational cost.
-</div>
-</div>
+An efficient Mamba-based super-resolution model that uses correlation-guided readout modulation to preserve fine industrial structures with low computational cost.
 
 - **FASMNet: A Lightweight Frequency-Aware Split-Modulation Network for Efficient Image Super-Resolution**  
 **Hong Yang**, Ruohong Xu, and Xianqiang Yang  
 *IEEE Transactions on Multimedia (TMM)* 2026 [[paper](https://doi.org/10.1109/TMM.2026.3697641)]  
-- A compact frequency-aware super-resolution network that dynamically modulates high-, mid-, and low-frequency features for efficient detail recovery.
-</div>
-</div>
+A compact frequency-aware super-resolution network that dynamically modulates high-, mid-, and low-frequency features for efficient detail recovery.
 
 - **Self-Supervised Structured Illumination Microscopy Image Denoising Based on Multiresolution Analysis Resampling**  
 **Hong Yang** and Xianqiang Yang  
 *IEEE Transactions on Instrumentation and Measurement (TIM)* 2025 [[paper](https://doi.org/10.1109/TIM.2025.3575962)]  
-- A self-supervised SIM denoising method that uses multiresolution-analysis resampling to build training pairs from noisy low-light microscopy data.
-</div>
-</div>
+A self-supervised SIM denoising method that uses multiresolution-analysis resampling to build training pairs from noisy low-light microscopy data.
 
 - **Physically-Inspired Self-Supervised Denoising for Structured Illumination Microscopy via Noise Decomposition and Recorruption**  
 **Hong Yang**, Ruohong Xu, and Xianqiang Yang  
