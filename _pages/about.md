@@ -30,6 +30,10 @@ A ***full publication list*** is available on [ResearchGate](https://www.researc
 - **Zero-Shot Learning for Limited Photon Budget Denoising in Structured Illumination Microscopy**  
 **Hong Yang** and Xianqiang Yang  
 *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)* 2025 [[paper](https://doi.org/10.1109/TPAMI.2025.3612886)]
+- A zero-shot SIM denoising framework that trains from a single noisy image stack using SIM-specific resampling and physics-guided self-supervision for low-photon live-cell imaging.
+</div>
+</div>
+
 - **PhySISR: A Self-Supervised Super-Resolution Framework for Industrial Vision with Physical Constraints**  
 **Hong Yang**, Ruohong Xu, and Xianqiang Yang  
 *IEEE Transactions on Industrial Informatics (TII)* 2026 [[paper](https://doi.org/10.1109/TII.2025.3648386)]
