@@ -27,6 +27,9 @@ I am open to research collaborations. If you are interested in collaboration or 
 ======
 A ***full publication list*** is available on [ResearchGate](https://www.researchgate.net/profile/Hong-Yang-72) and [Google Scholar](https://scholar.google.com/citations?user=vUwsiJ4AAAAJ&hl=en).
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/framework/tpami.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
 - **Zero-Shot Learning for Limited Photon Budget Denoising in Structured Illumination Microscopy**  
 **Hong Yang** and Xianqiang Yang  
 *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)* 2025 [[paper](https://doi.org/10.1109/TPAMI.2025.3612886)]
