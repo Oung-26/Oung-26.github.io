@@ -33,10 +33,19 @@ A ***full publication list*** is available on [ResearchGate](https://www.researc
 - **Zero-Shot Learning for Limited Photon Budget Denoising in Structured Illumination Microscopy**  
 **Hong Yang** and Xianqiang Yang  
 *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)* 2025 [[paper](https://doi.org/10.1109/TPAMI.2025.3612886)]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/framework/tiiphysisr.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
 - **PhySISR: A Self-Supervised Super-Resolution Framework for Industrial Vision with Physical Constraints**  
 **Hong Yang**, Zhixiang Jia, Ruohong Xu, and Xianqiang Yang  
 *IEEE Transactions on Industrial Informatics (TII)* 2026 [[paper](https://doi.org/10.1109/TII.2025.3648386)]
+</div>
+</div>
 <!-- [[dataset](https://doi.org/10.6084/m9.figshare.28938005)] --> 
+
 - **Spatially Adaptive Vision Mamba for Efficient Industrial Image Super-Resolution**  
 **Hong Yang**, Zhixiang Jia, Zhenghan Ding, Weihua Liu, and Xianqiang Yang  
 *IEEE Transactions on Industrial Informatics (TII)* 2026 [[paper](https://doi.org/10.1109/TII.2026.3699019)]
