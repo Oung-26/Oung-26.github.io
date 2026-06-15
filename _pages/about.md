@@ -36,7 +36,7 @@ A ***full publication list*** is available on [ResearchGate](https://www.researc
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/framework/tiiphysisr.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TII 2026</div><img src='images/framework/tiiphysisr.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 - **PhySISR: A Self-Supervised Super-Resolution Framework for Industrial Vision with Physical Constraints**  
