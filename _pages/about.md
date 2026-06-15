@@ -114,9 +114,14 @@ A ***full publication list*** is available on [ResearchGate](https://www.researc
 
 [paper](https://doi.org/10.1016/j.dsp.2025.105345)
 
-- **A Type-independent Unknown Parameters Estimation Method for Lead Component**  
+**A Type-independent Unknown Parameters Estimation Method for Lead Component**  
+
 **Hong Yang**, Xinpeng Liu, Weihua Liu, and Xianqiang Yang  
-*IECON* 2024 - 50th Annual Conference of the IEEE Industrial Electronics Society 2024 [[paper](https://doi.org/10.1109/IECON55916.2024.10905933)]  
+
+***IECON 2024 - 50th Annual Conference of the IEEE Industrial Electronics Society 2024***
+
+[paper](https://doi.org/10.1109/IECON55916.2024.10905933)
+
 - **Light and Wood: A Review of Optically Transparent Wood for Architectural Applications**  
 **Hong Yang**, Hang Wang, Taoyang Cai, Shangjie Ge-Zhang, Hongbo Mu  
 *Industrial Crops and Products* 2023 [[paper](https://doi.org/10.1016/j.indcrop.2023.117287)]  
