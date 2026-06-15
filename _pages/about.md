@@ -41,12 +41,17 @@ A ***full publication list*** is available on [ResearchGate](https://www.researc
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TII 2026</div><img src='images/framework/tiiphysisr.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TII 2026</div><img src='images/framework/physisr.png' alt="PhySISR" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  
-- **PhySISR: A Self-Supervised Super-Resolution Framework for Industrial Vision with Physical Constraints**  
-**Hong Yang**, Zhixiang Jia, Ruohong Xu, and Xianqiang Yang  
-*IEEE Transactions on Industrial Informatics (TII)* 2026 [[paper](https://doi.org/10.1109/TII.2025.3648386)]
+
+**PhySISR: A Self-Supervised Super-Resolution Framework for Industrial Vision with Physical Constraints**
+
+**Hong Yang**, Ruohong Xu, and Xianqiang Yang
+
+***IEEE Transactions on Industrial Informatics (TII), 2026***
+
+[Paper](https://doi.org/10.1109/TII.2025.3648386)
+- A physics-consistent self-supervised super-resolution framework for industrial vision that restores structural details without labeled data.
 </div>
 </div>
 <!-- [[dataset](https://doi.org/10.6084/m9.figshare.28938005)] --> 
