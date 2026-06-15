@@ -37,6 +37,9 @@ A ***full publication list*** is available on [ResearchGate](https://www.researc
 - **PhySISR: A Self-Supervised Super-Resolution Framework for Industrial Vision with Physical Constraints**  
 **Hong Yang**, Ruohong Xu, and Xianqiang Yang  
 *IEEE Transactions on Industrial Informatics (TII)* 2026 [[paper](https://doi.org/10.1109/TII.2025.3648386)]
+- A physics-consistent self-supervised super-resolution framework for industrial vision that restores structural details without labeled data.
+</div>
+</div>
 <!-- [[dataset](https://doi.org/10.6084/m9.figshare.28938005)] --> 
 - **Spatially Adaptive Vision Mamba for Efficient Industrial Image Super-Resolution**  
 **Hong Yang**, Zhixiang Jia, Zhenghan Ding, Weihua Liu, and Xianqiang Yang  
