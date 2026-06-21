@@ -67,7 +67,7 @@ A self-supervised SIM denoising method that uses multiresolution-analysis resamp
 **Hong Yang**, Hang Wang, Taoyang Cai, Shangjie Ge-Zhang, Hongbo Mu  
 ***Industrial Crops and Products, 2023*** [[paper](https://doi.org/10.1016/j.indcrop.2023.117287)]  
 - **A Fast Template Matching Method for Pose Estimation of Surface Mount Components**  
-Zhenghan Ding, **Hong Yang**, Ruohong Xu, and Xianqiang Yang 
+Zhenghan Ding, **Hong Yang**, Ruohong Xu, and Xianqiang Yang  
 ***IEEE Transactions on Instrumentation and Measurement (TIM), 2026*** [[paper](https://oung-26.github.io/)]  
 - **LMA-DETR: A Multi-Scale Detection Framework for Seed Defect Screening**  
 Hao Li, **Hong Yang**, Zhuqi Li, Wangyu Wu, Dongkui Chen, Xuanlong He, and Hongbo Mu  
