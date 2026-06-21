@@ -17,7 +17,7 @@ I am open to research collaborations. If you are interested in collaboration or 
 
 🔥 News
 ======
-- [2026.06] 🎉🎉🎉 One paper was accepted by IEEE TIM.
+- [2026.06] 🎉🎉🎉 One paper was accepted by IEEE TIM. Congratulations to Zhenghan!
 - [2026.05] 🎉🎉🎉 One paper was accepted by IEEE TII.
 - [2026.01] 🎉🎉🎉 One paper was accepted by IEEE TMM.
 - [2025.12] 🎉🎉🎉 One paper was accepted by IEEE TII.
