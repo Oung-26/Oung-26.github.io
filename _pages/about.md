@@ -17,6 +17,7 @@ I am open to research collaborations. If you are interested in collaboration or 
 
 🔥 News
 ======
+- [2026.06] 🎉🎉🎉 One paper was accepted by IEEE TIM.
 - [2026.05] 🎉🎉🎉 One paper was accepted by IEEE TII.
 - [2026.01] 🎉🎉🎉 One paper was accepted by IEEE TMM.
 - [2025.12] 🎉🎉🎉 One paper was accepted by IEEE TII.
@@ -65,6 +66,9 @@ A self-supervised SIM denoising method that uses multiresolution-analysis resamp
 - **Light and Wood: A Review of Optically Transparent Wood for Architectural Applications**  
 **Hong Yang**, Hang Wang, Taoyang Cai, Shangjie Ge-Zhang, Hongbo Mu  
 ***Industrial Crops and Products, 2023*** [[paper](https://doi.org/10.1016/j.indcrop.2023.117287)]  
+- **A Fast Template Matching Method for Pose Estimation of Surface Mount Components**  
+Zhenghan Ding, **Hong Yang**, Ruohong Xu, and Xianqiang Yang 
+***IEEE Transactions on Instrumentation and Measurement (TIM), 2026*** [[paper](https://oung-26.github.io/)]  
 - **LMA-DETR: A Multi-Scale Detection Framework for Seed Defect Screening**  
 Hao Li, **Hong Yang**, Zhuqi Li, Wangyu Wu, Dongkui Chen, Xuanlong He, and Hongbo Mu  
 ***Digital Signal Processing, 2025*** [[paper](https://doi.org/10.1016/j.dsp.2025.105639)]  
