@@ -30,36 +30,36 @@ A ***full publication list*** is available on [ResearchGate](https://www.researc
 
 - **Zero-Shot Learning for Limited Photon Budget Denoising in Structured Illumination Microscopy**  
 **Hong Yang** and Xianqiang Yang  
-***IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025***  [[paper](https://doi.org/10.1109/TPAMI.2025.3612886)]  
+***IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI, CCF A, IF=20.4), 2025***  [[paper](https://doi.org/10.1109/TPAMI.2025.3612886)]  
 A zero-shot SIM denoising framework that trains from a single noisy image stack using SIM-specific resampling and physics-guided self-supervision for low-photon live-cell imaging.
+
+- **FASMNet: A Lightweight Frequency-Aware Split-Modulation Network for Efficient Image Super-Resolution**  
+**Hong Yang**, Ruohong Xu, and Xianqiang Yang  
+***IEEE Transactions on Multimedia (TMM, IF=9.9), 2026*** [[paper](https://doi.org/10.1109/TMM.2026.3697641)]  
+A compact frequency-aware super-resolution network that dynamically modulates high-, mid-, and low-frequency features for efficient detail recovery.
 
 - **PhySISR: A Self-Supervised Super-Resolution Framework for Industrial Vision with Physical Constraints**  
 **Hong Yang**, Ruohong Xu, and Xianqiang Yang  
-***IEEE Transactions on Industrial Informatics (TII), 2026*** [[paper](https://doi.org/10.1109/TII.2025.3648386)]  
+***IEEE Transactions on Industrial Informatics (TII, IF=9.8), 2026*** [[paper](https://doi.org/10.1109/TII.2025.3648386)]  
  A physics-consistent self-supervised super-resolution framework for industrial vision that restores structural details without labeled data.
 <!-- [[dataset](https://doi.org/10.6084/m9.figshare.28938005)] --> 
 
 - **Spatially Adaptive Vision Mamba for Efficient Industrial Image Super-Resolution**  
 **Hong Yang**, Zhixiang Jia, Zhenghan Ding, Weihua Liu, and Xianqiang Yang  
-***IEEE Transactions on Industrial Informatics (TII), 2026*** [[paper](https://doi.org/10.1109/TII.2026.3699019)]  
+***IEEE Transactions on Industrial Informatics (TII, IF=9.8), 2026*** [[paper](https://doi.org/10.1109/TII.2026.3699019)]  
 An efficient Mamba-based super-resolution model that uses correlation-guided readout modulation to preserve fine industrial structures with low computational cost.
-
-- **FASMNet: A Lightweight Frequency-Aware Split-Modulation Network for Efficient Image Super-Resolution**  
-**Hong Yang**, Ruohong Xu, and Xianqiang Yang  
-***IEEE Transactions on Multimedia (TMM), 2026*** [[paper](https://doi.org/10.1109/TMM.2026.3697641)]  
-A compact frequency-aware super-resolution network that dynamically modulates high-, mid-, and low-frequency features for efficient detail recovery.
 
 - **Self-Supervised Structured Illumination Microscopy Image Denoising Based on Multiresolution Analysis Resampling**  
 **Hong Yang** and Xianqiang Yang  
-***IEEE Transactions on Instrumentation and Measurement (TIM), 2025*** [[paper](https://doi.org/10.1109/TIM.2025.3575962)]  
+***IEEE Transactions on Instrumentation and Measurement (TIM, IF=7), 2025*** [[paper](https://doi.org/10.1109/TIM.2025.3575962)]  
 A self-supervised SIM denoising method that uses multiresolution-analysis resampling to build training pairs from noisy low-light microscopy data.
 
 - **Physically-Inspired Self-Supervised Denoising for Structured Illumination Microscopy via Noise Decomposition and Recorruption**  
 **Hong Yang**, Ruohong Xu, and Xianqiang Yang  
-***Biomedical Signal Processing and Control, 2025*** [[paper](https://doi.org/10.1016/j.bspc.2025.108849)]  
+***Biomedical Signal Processing and Control (BSPC, IF=5.7), 2025*** [[paper](https://doi.org/10.1016/j.bspc.2025.108849)]  
 - **Two-Stage Zero-Shot Denoising and Enhancement for Structured Illumination Microscopy**  
 **Hong Yang** and Xianqiang Yang  
-***Digital Signal Processing, 2025*** [[paper](https://doi.org/10.1016/j.dsp.2025.105345)]  
+***Digital Signal Processing (DSP, IF=3.4), 2025*** [[paper](https://doi.org/10.1016/j.dsp.2025.105345)]  
 - **A Type-independent Unknown Parameters Estimation Method for Lead Component**  
 **Hong Yang**, Xinpeng Liu, Weihua Liu, and Xianqiang Yang  
 ***IECON 2024 - 50th Annual Conference of the IEEE Industrial Electronics Society, 2024*** [[paper](https://doi.org/10.1109/IECON55916.2024.10905933)]  
