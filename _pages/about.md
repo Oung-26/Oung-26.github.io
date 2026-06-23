@@ -35,7 +35,7 @@ A zero-shot SIM denoising framework that trains from a single noisy image stack 
 
 - **FASMNet: A Lightweight Frequency-Aware Split-Modulation Network for Efficient Image Super-Resolution**  
 **Hong Yang**, Ruohong Xu, and Xianqiang Yang  
-***IEEE Transactions on Multimedia (TMM, IF=9.9), 2026*** [[paper](https://doi.org/10.1109/TMM.2026.3697641)]  
+***IEEE Transactions on Multimedia (TMM, CCF A, IF=9.9), 2026*** [[paper](https://doi.org/10.1109/TMM.2026.3697641)]  
 A compact frequency-aware super-resolution network that dynamically modulates high-, mid-, and low-frequency features for efficient detail recovery.
 
 - **PhySISR: A Self-Supervised Super-Resolution Framework for Industrial Vision with Physical Constraints**  
