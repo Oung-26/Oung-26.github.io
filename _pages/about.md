@@ -17,12 +17,12 @@ I am open to research collaborations. If you are interested in collaboration or 
 
 🔥 News
 ======
-- [2026.06] 🎉🎉🎉 One paper was accepted by IEEE TIM. Congratulations to Zhenghan!
-- [2026.05] 🎉🎉🎉 One paper was accepted by IEEE TII.
-- [2026.01] 🎉🎉🎉 One paper was accepted by IEEE TMM.
-- [2025.12] 🎉🎉🎉 One paper was accepted by IEEE TII.
-- [2025.09] 🎉🎉🎉 One paper was accepted by IEEE TPAMI.
-- [2025.05] 🎉🎉🎉 One paper was accepted by IEEE TIM.
+- [2026.06] 🎉🎉🎉 One paper was accepted by IEEE TIM (IF=7). Congratulations to Zhenghan!
+- [2026.05] 🎉🎉🎉 One paper was accepted by IEEE TII (IF=9.8).
+- [2026.01] 🎉🎉🎉 One paper was accepted by IEEE TMM (CCF A, IF=9.9).
+- [2025.12] 🎉🎉🎉 One paper was accepted by IEEE TII (IF=9.8).
+- [2025.09] 🎉🎉🎉 One paper was accepted by IEEE TPAMI (CCF A, IF=20.4).
+- [2025.05] 🎉🎉🎉 One paper was accepted by IEEE TIM (IF=7).
 
 📝 Representative Publication List
 ======
