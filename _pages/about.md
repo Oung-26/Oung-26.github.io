@@ -26,7 +26,7 @@ I am open to research collaborations. If you are interested in collaboration or 
 
 📝 Representative Publication List
 ======
-A ***full publication list*** is available on [ResearchGate](https://www.researchgate.net/profile/Hong-Yang-72) and [Google Scholar](https://scholar.google.com/citations?user=vUwsiJ4AAAAJ&hl=en).
+A ***full publication list*** is available on [ResearchGate](https://www.researchgate.net/profile/Hong-Yang-72) and [Google Scholar](https://scholar.google.com/citations?hl=en&user=vUwsiJ4AAAAJ&view_op=list_works&sortby=pubdate).
 
 - **Zero-Shot Learning for Limited Photon Budget Denoising in Structured Illumination Microscopy**  
 **Hong Yang** and Xianqiang Yang  
