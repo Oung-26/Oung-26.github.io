@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Ph.D. candidate in Control Science and Engineering at the Research Institute of Intelligent Control and Systems, [School of Astronautics](https://sa.hit.edu.cn/), Harbin Institute of Technology ([HIT](https://www.hit.edu.cn/)), Harbin, China.
 
-My research interests include computational optical imaging, image restoration and enhancement, precise visual inspection, computer vision, and deep learning. To date, I have authored or co-authored ~30 publications across journals and conferences, such as TPAMI, TMM, and TII.
+My research interests include computational optical imaging, image restoration and enhancement, precise visual inspection, computer vision, and deep learning. To date, I have authored or co-authored ~30 publications across journals and conferences, such as TPAMI, TIP, TMM, and TII.
 
 
 I am open to research collaborations. If you are interested in collaboration or academic exchange, feel free to contact me at [yangh23@stu.hit.edu.cn](https://young1008.github.io//).
@@ -17,6 +17,7 @@ I am open to research collaborations. If you are interested in collaboration or 
 
 🔥 News
 ======
+- [2026.07] 🎉🎉🎉 One paper was accepted by IEEE TIP (IF=15.3).
 - [2026.06] 🎉🎉🎉 One paper was accepted by IEEE TIM (IF=7). Congratulations to Zhenghan!
 - [2026.05] 🎉🎉🎉 One paper was accepted by IEEE TII (IF=9.8).
 - [2026.01] 🎉🎉🎉 One paper was accepted by IEEE TMM (CCF A, IF=9.9).
@@ -32,6 +33,11 @@ A ***full publication list*** is available on [ResearchGate](https://www.researc
 **Hong Yang** and Xianqiang Yang  
 ***IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI, CCF A, IF=20.4), 2025***  [[paper](https://doi.org/10.1109/TPAMI.2025.3612886)]  
 A zero-shot SIM denoising framework that trains from a single noisy image stack using SIM-specific resampling and physics-guided self-supervision for low-photon live-cell imaging.
+
+- **Multi-View Single Scan Visual State Space Network for Efficient Image Super-Resolution**  
+**Hong Yang**, Weihua Liu, and Xianqiang Yang  
+***IEEE Transactions on Image Processing (TIP, CCF A, IF=15.3), 2026***  [[paper](https://oung-26.github.io/)]  
+We propose MVSSN, a multi-view visual state space network for efficient single image super-resolution that considers two-dimensional image topology while maintaining linear-time complexity.
 
 - **FASMNet: A Lightweight Frequency-Aware Split-Modulation Network for Efficient Image Super-Resolution**  
 **Hong Yang**, Ruohong Xu, and Xianqiang Yang  
