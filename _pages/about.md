@@ -17,7 +17,7 @@ I am open to research collaborations. If you are interested in collaboration or 
 
 🔥 News
 ======
-- [2026.07] 🎉🎉🎉 One paper was accepted by IECON.
+- [2026.07] 🎉🎉🎉 One paper was accepted by IECON 2026.
 - [2026.07] 🎉🎉🎉 One paper was accepted by IEEE TIP (IF=15.3).
 - [2026.06] 🎉🎉🎉 One paper was accepted by IEEE TIM (IF=7). Congratulations to Zhenghan!
 - [2026.05] 🎉🎉🎉 One paper was accepted by IEEE TII (IF=9.8).
