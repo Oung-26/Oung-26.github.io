@@ -69,7 +69,7 @@ A self-supervised SIM denoising method that uses multiresolution-analysis resamp
 ***Digital Signal Processing (DSP, IF=3.4), 2025*** [[paper](https://doi.org/10.1016/j.dsp.2025.105345)]
 - **Lightweight Industrial Image Super-Resolution via Frequency-Decoupled Global-Local Modeling**  
 **Hong Yang**, Tingxin Li, Ruohong Xu, Zhenghan Ding, Zhixiang Jia, and Jingfan Hang  
-***IECON 2026 - 52th Annual Conference of the IEEE Industrial Electronics Society, 2026*** [[paper](https://oung-26.github.io/)]  
+***IECON 2026 - 52nd Annual Conference of the IEEE Industrial Electronics Society, 2026*** [[paper](https://oung-26.github.io/)]  
 - **A Type-independent Unknown Parameters Estimation Method for Lead Component**  
 **Hong Yang**, Xinpeng Liu, Weihua Liu, and Xianqiang Yang  
 ***IECON 2024 - 50th Annual Conference of the IEEE Industrial Electronics Society, 2024*** [[paper](https://doi.org/10.1109/IECON55916.2024.10905933)]  
