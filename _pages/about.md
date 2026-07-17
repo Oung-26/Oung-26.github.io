@@ -17,7 +17,7 @@ I am open to research collaborations. If you are interested in collaboration or 
 
 🔥 News
 ======
-- [2026.07] 🎉🎉🎉 One paper was accepted by IECON 2026.
+- [2026.07] 🎉🎉🎉 One paper was accepted by IECON 2026 (CAA A).
 - [2026.07] 🎉🎉🎉 One paper was accepted by IEEE TIP (IF=15.3).
 - [2026.06] 🎉🎉🎉 One paper was accepted by IEEE TIM (IF=7). Congratulations to Zhenghan!
 - [2026.05] 🎉🎉🎉 One paper was accepted by IEEE TII (IF=9.8).
@@ -69,10 +69,10 @@ A self-supervised SIM denoising method that uses multiresolution-analysis resamp
 ***Digital Signal Processing (DSP, IF=3.4), 2025*** [[paper](https://doi.org/10.1016/j.dsp.2025.105345)]
 - **Lightweight Industrial Image Super-Resolution via Frequency-Decoupled Global-Local Modeling**  
 **Hong Yang**, Tingxin Li, Ruohong Xu, Zhenghan Ding, Zhixiang Jia, and Jingfan Hang  
-***IECON 2026 - 52nd Annual Conference of the IEEE Industrial Electronics Society, 2026*** [[paper](https://oung-26.github.io/)]  
+***IECON 2026 - 52nd Annual Conference of the IEEE Industrial Electronics Society (CAA A), 2026*** [[paper](https://oung-26.github.io/)]  
 - **A Type-independent Unknown Parameters Estimation Method for Lead Component**  
 **Hong Yang**, Xinpeng Liu, Weihua Liu, and Xianqiang Yang  
-***IECON 2024 - 50th Annual Conference of the IEEE Industrial Electronics Society, 2024*** [[paper](https://doi.org/10.1109/IECON55916.2024.10905933)]  
+***IECON 2024 - 50th Annual Conference of the IEEE Industrial Electronics Society (CAA A), 2024*** [[paper](https://doi.org/10.1109/IECON55916.2024.10905933)]  
 - **Light and Wood: A Review of Optically Transparent Wood for Architectural Applications**  
 **Hong Yang**, Hang Wang, Taoyang Cai, Shangjie Ge-Zhang, Hongbo Mu  
 ***Industrial Crops and Products, 2023*** [[paper](https://doi.org/10.1016/j.indcrop.2023.117287)]  
