@@ -37,7 +37,7 @@ A zero-shot SIM denoising framework that trains from a single noisy image stack 
 
 - **Multi-View Single Scan Visual State Space Network for Efficient Image Super-Resolution**  
 **Hong Yang**, Weihua Liu, and Xianqiang Yang  
-***IEEE Transactions on Image Processing (TIP, CCF A, IF=15.3), 2026***  [[paper](https://oung-26.github.io/)]  
+***IEEE Transactions on Image Processing (TIP, CCF A, IF=15.3), 2026***  [[paper](https://doi.org/10.1109/TIP.2026.3714851)]  
 We propose MVSSN, a multi-view visual state space network for efficient single image super-resolution that considers two-dimensional image topology while maintaining linear-time complexity.
 
 - **FASMNet: A Lightweight Frequency-Aware Split-Modulation Network for Efficient Image Super-Resolution**  
