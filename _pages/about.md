@@ -114,7 +114,8 @@ Zihao Wan, **Hong Yang**, Jipan Xu, Hongbo Mu, and Dawei Qi
 - Neural Networks  
 - Neurocomputing  
 - Knowledge-Based Systems  
-- Expert Systems with Applications  
+- Expert Systems with Applications
+- Applied Soft Computing
 - Computer Vision and Image Understanding (CVIU)  
 - Information Sciences  
 - Journal of Visual Communication and Image Representation (JVCI)  
