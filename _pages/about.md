@@ -105,6 +105,7 @@ Zihao Wan, **Hong Yang**, Jipan Xu, Hongbo Mu, and Dawei Qi
 - Student Member of **IEEE**, **IEEE Industrial Electronics Society ([IES](https://www.ieee-ies.org/))**, **China Society of Image and Graphics ([CSIG](https://www.csig.org.cn/))**
 
 **Conference Reviewer:**  
+- AAAI Program Committee Members (PC) (AAAI Conference on Artificial Intelligence)
 - IECON (Annual Conference of the IEEE Industrial Electronics Society)
 - CAC (China Automation Congress)
 
