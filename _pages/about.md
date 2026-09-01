@@ -17,7 +17,7 @@ I am open to research collaborations. If you are interested in collaboration or 
 
 🔥 News
 ======
-- [2026.09] 🎉🎉🎉 One paper was accepted by Information Sciences (IF=6). Congratulations to Jingpeng!.
+- [2026.09] 🎉🎉🎉 One paper was accepted by Information Sciences (IF=6). Congratulations to Jingpeng!
 - [2026.07] 🎉🎉🎉 One paper was accepted by IECON 2026 (CAA A).
 - [2026.07] 🎉🎉🎉 One paper was accepted by IEEE TIP (IF=15.3).
 - [2026.06] 🎉🎉🎉 One paper was accepted by IEEE TIM (IF=7). Congratulations to Zhenghan!
