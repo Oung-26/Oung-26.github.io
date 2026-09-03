@@ -82,7 +82,7 @@ Zhenghan Ding, **Hong Yang**, Ruohong Xu, and Xianqiang Yang
 ***IEEE Transactions on Instrumentation and Measurement (TIM), 2026*** [[paper](https://doi.org/10.1109/TIM.2026.3711338)]
 - **Knowledge-Guided Multimodal Information Fusion for Few-Shot Defect Segmentation**  
 Jingpeng Cui, **Hong Yang**, and Xianqiang Yang  
-***Information Sciences, 2026*** [[paper](https://oung-26.github.io/)]  
+***Information Sciences, 2026*** [[paper](https://doi.org/10.1016/j.ins.2026.124087)]  
 - **LMA-DETR: A Multi-Scale Detection Framework for Seed Defect Screening**  
 Hao Li, **Hong Yang**, Zhuqi Li, Wangyu Wu, Dongkui Chen, Xuanlong He, and Hongbo Mu  
 ***Digital Signal Processing, 2025*** [[paper](https://doi.org/10.1016/j.dsp.2025.105639)]  
