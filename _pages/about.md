@@ -17,6 +17,7 @@ I am open to research collaborations. If you are interested in collaboration or 
 
 🔥 News
 ======
+- [2026.09] 🎉🎉🎉 One paper was accepted by IEEE TII (IF=9.8). Congratulations to Jintuo!
 - [2026.09] 🎉🎉🎉 One paper was accepted by Information Sciences (IF=6). Congratulations to Jingpeng!
 - [2026.07] 🎉🎉🎉 One paper was accepted by IECON 2026 (CAA A).
 - [2026.07] 🎉🎉🎉 One paper was accepted by IEEE TIP (IF=15.3).
@@ -61,6 +62,10 @@ An efficient Mamba-based super-resolution model that uses correlation-guided rea
 **Hong Yang** and Xianqiang Yang  
 ***IEEE Transactions on Instrumentation and Measurement (TIM, IF=7), 2025*** [[paper](https://doi.org/10.1109/TIM.2025.3575962)]  
 A self-supervised SIM denoising method that uses multiresolution-analysis resampling to build training pairs from noisy low-light microscopy data.
+
+- **Memory-Guided Adaptive Routing Network for Efficient Image Super-Resolution in Industrial Vision Systems**  
+Jintuo Wang, Zhenghan Ding, **Hong Yang** and Xianqiang Yang  
+***IEEE Transactions on Industrial Informatics (TII, IF=9.8), 2026*** [[paper](https://oung-26.github.io/)]  
 
 - **Physically-Inspired Self-Supervised Denoising for Structured Illumination Microscopy via Noise Decomposition and Recorruption**  
 **Hong Yang**, Ruohong Xu, and Xianqiang Yang  
