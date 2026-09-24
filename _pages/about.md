@@ -103,6 +103,9 @@ Zihao Wan, **Hong Yang**, Jipan Xu, Hongbo Mu, and Dawei Qi
 - **Bo-Densenet: A Bilinear One-Dimensional Densenet Network Based on Multi-scale Feature Fusion for Wood NIR Classification**  
 Zihao Wan, **Hong Yang**, Jipan Xu, Hongbo Mu, and Dawei Qi  
 ***Chemometrics and Intelligent Laboratory Systems, 2023*** [[paper](https://doi.org/10.1016/j.chemolab.2023.104920)]  
+- **Calibration-Preserving Frequency-Domain Deblurring for Optical Sub-Pixel Metrology Under Composite Degradation**  
+Jingpeng Cui, Xuebo Yang, **Hong Yang**, and Xianqiang Yang  
+***Optics and Lasers in Engineering, 2026*** [[paper](https://oung-26.github.io/)]  
 
 💻 Activities / Service
 ======
