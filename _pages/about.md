@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Control Science and Engineering at the Research Institute of Intelligent Control and Systems, [School of Astronautics](https://sa.hit.edu.cn/), Harbin Institute of Technology ([HIT](https://www.hit.edu.cn/)), Harbin, China.
+I am a Ph.D. in Control Science and Engineering at the Research Institute of Intelligent Control and Systems, [School of Astronautics](https://sa.hit.edu.cn/), Harbin Institute of Technology ([HIT](https://www.hit.edu.cn/)), Harbin, China.
 
 My research interests include computational optical imaging, image restoration and enhancement, precise visual inspection, computer vision, and deep learning. To date, I have authored or co-authored ~30 publications across journals and conferences, such as TPAMI, TIP, TMM, and TII.
 
@@ -119,11 +119,13 @@ Jingpeng Cui, Xuebo Yang, **Hong Yang**, and Xianqiang Yang
 
 **Journal Reviewer:**  
 - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)  
+- IEEE Transactions on Multimedia (TMM)  
+- IEEE Transactions on Instrumentation and Measurement (TIM)  
 - Neural Networks  
 - Neurocomputing  
 - Knowledge-Based Systems  
-- Expert Systems with Applications
-- Applied Soft Computing
+- Expert Systems with Applications  
+- Applied Soft Computing  
 - Computer Vision and Image Understanding (CVIU)  
 - Information Sciences  
 - Journal of Visual Communication and Image Representation (JVCI)  
@@ -131,4 +133,4 @@ Jingpeng Cui, Xuebo Yang, **Hong Yang**, and Xianqiang Yang
 - Optics & Laser Technology (OLT)  
 - Pattern Recognition Letters  
 - Alexandria Engineering Journal  
-- Signal Processing: Image Communication
+- Signal Processing: Image Communication  
