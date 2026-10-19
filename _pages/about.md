@@ -17,6 +17,7 @@ I am open to research collaborations. If you are interested in collaboration or 
 
 🔥 News
 ======
+- [2026.09] 🎉🎉🎉 One paper was accepted by Pattern Recognition (IF=9.1).
 - [2026.09] 🎉🎉🎉 One paper was accepted by IEEE TII (IF=9.8). Congratulations to Jintuo!
 - [2026.09] 🎉🎉🎉 One paper was accepted by Information Sciences (IF=6). Congratulations to Jingpeng!
 - [2026.07] 🎉🎉🎉 One paper was accepted by IECON 2026 (CAA A).
@@ -57,6 +58,10 @@ A compact frequency-aware super-resolution network that dynamically modulates hi
 **Hong Yang**, Zhixiang Jia, Zhenghan Ding, Weihua Liu, and Xianqiang Yang  
 ***IEEE Transactions on Industrial Informatics (TII, IF=9.8), 2026*** [[paper](https://doi.org/10.1109/TII.2026.3699019)]  
 An efficient Mamba-based super-resolution model that uses correlation-guided readout modulation to preserve fine industrial structures with low computational cost.
+
+- **Spatial--Frequency Fusion via State Space Modeling for Efficient Image Super-Resolution**  
+**Hong Yang**, Tingxin Li, Jintuo Wang, and Xianqiang Yang  
+***Pattern Recognition (PR, IF=9.1), 2026*** [[paper](https://oung-26.github.io/)]  
 
 - **Self-Supervised Structured Illumination Microscopy Image Denoising Based on Multiresolution Analysis Resampling**  
 **Hong Yang** and Xianqiang Yang  
