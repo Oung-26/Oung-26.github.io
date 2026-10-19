@@ -9,10 +9,10 @@ redirect_from:
 
 I am a Ph.D. in Control Science and Engineering at the Research Institute of Intelligent Control and Systems, [School of Astronautics](https://sa.hit.edu.cn/), Harbin Institute of Technology ([HIT](https://www.hit.edu.cn/)), Harbin, China.
 
-My research interests include computational optical imaging, image restoration and enhancement, precise visual inspection, computer vision, and deep learning. To date, I have authored or co-authored ~30 publications across journals and conferences, such as TPAMI, TIP, TMM, and TII.
+My research interests include computational optical imaging, image restoration and enhancement, precise visual inspection, computer vision, and deep learning. To date, I have authored or co-authored ~40 publications across journals and conferences, such as TPAMI, TIP, TMM, TII, and Pattern Recognition.
 
 
-I am open to research collaborations. If you are interested in collaboration or academic exchange, feel free to contact me at [yangh23@stu.hit.edu.cn](https://young1008.github.io//).
+I am open to research collaborations. If you are interested in collaboration or academic exchange, feel free to contact me at [yangh23@stu.hit.edu.cn](https://oung-26.github.io/).
 
 
 🔥 News
