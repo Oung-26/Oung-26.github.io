@@ -70,7 +70,7 @@ A self-supervised SIM denoising method that uses multiresolution-analysis resamp
 
 - **Memory-Guided Adaptive Routing Network for Efficient Image Super-Resolution in Industrial Vision Systems**  
 Jintuo Wang, Zhenghan Ding, **Hong Yang\*** and Xianqiang Yang  
-***IEEE Transactions on Industrial Informatics (TII, IF=9.8), 2026, *Corresponding Author*** [[paper](https://doi.org/10.1109/TII.2026.3735364)]  
+***IEEE Transactions on Industrial Informatics (TII, IF=9.8), 2026, Corresponding Author*** [[paper](https://doi.org/10.1109/TII.2026.3735364)]  
 
 - **Physically-Inspired Self-Supervised Denoising for Structured Illumination Microscopy via Noise Decomposition and Recorruption**  
 **Hong Yang**, Ruohong Xu, and Xianqiang Yang  
