@@ -69,8 +69,8 @@ An efficient Mamba-based super-resolution model that uses correlation-guided rea
 A self-supervised SIM denoising method that uses multiresolution-analysis resampling to build training pairs from noisy low-light microscopy data.
 
 - **Memory-Guided Adaptive Routing Network for Efficient Image Super-Resolution in Industrial Vision Systems**  
-Jintuo Wang, Zhenghan Ding, **Hong Yang** and Xianqiang Yang  
-***IEEE Transactions on Industrial Informatics (TII, IF=9.8), 2026*** [[paper](https://doi.org/10.1109/TII.2026.3735364)]  
+Jintuo Wang, Zhenghan Ding, **Hong Yang\*** and Xianqiang Yang  
+***IEEE Transactions on Industrial Informatics (TII, IF=9.8), 2026, *Corresponding Author*** [[paper](https://doi.org/10.1109/TII.2026.3735364)]  
 
 - **Physically-Inspired Self-Supervised Denoising for Structured Illumination Microscopy via Noise Decomposition and Recorruption**  
 **Hong Yang**, Ruohong Xu, and Xianqiang Yang  
