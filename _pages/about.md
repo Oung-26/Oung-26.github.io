@@ -61,7 +61,7 @@ An efficient Mamba-based super-resolution model that uses correlation-guided rea
 
 - **Spatial--Frequency Fusion via State Space Modeling for Efficient Image Super-Resolution**  
 **Hong Yang**, Tingxin Li, Jintuo Wang, and Xianqiang Yang  
-***Pattern Recognition (PR, IF=9.1), 2026*** [[paper](https://oung-26.github.io/)]  
+***Pattern Recognition (PR, IF=9.1), 2026*** [[paper](https://doi.org/10.1016/j.patcog.2026.115206)]  
 
 - **Self-Supervised Structured Illumination Microscopy Image Denoising Based on Multiresolution Analysis Resampling**  
 **Hong Yang** and Xianqiang Yang  
