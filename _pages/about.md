@@ -17,7 +17,7 @@ I am open to research collaborations. If you are interested in collaboration or 
 
 🔥 News
 ======
-- [2026.09] 🎉🎉🎉 One paper was accepted by Pattern Recognition (IF=9.1).
+- [2026.10] 🎉🎉🎉 One paper was accepted by Pattern Recognition (IF=9.1).
 - [2026.09] 🎉🎉🎉 One paper was accepted by IEEE TII (IF=9.8). Congratulations to Jintuo!
 - [2026.09] 🎉🎉🎉 One paper was accepted by Information Sciences (IF=6). Congratulations to Jingpeng!
 - [2026.07] 🎉🎉🎉 One paper was accepted by IECON 2026 (CAA A).
