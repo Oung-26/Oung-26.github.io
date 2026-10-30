@@ -112,10 +112,26 @@ Zihao Wan, **Hong Yang**, Jipan Xu, Hongbo Mu, and Dawei Qi
 Jingpeng Cui, Xuebo Yang, **Hong Yang**, and Xianqiang Yang  
 ***Optics and Lasers in Engineering, 2026*** [[paper](https://doi.org/10.1016/j.optlaseng.2026.110149)]  
 
+🌍 Academic Exchanges & Conferences
+======
+
+**Conference Presentations:**
+
+- **[2026.10] IECON 2026**, Doha, Qatar — Oral Presentation.
+- **[2026.10] The 20th Semiconductor and Integrated Circuit Technology Conference**, Qingdao, China — Oral Presentation.
+- **[2024.11] IECON 2024**, Chicago, IL, USA — Poster Presentation.
+
+**Academic Exchanges:**
+
+- **[2026] Next-Generation Fluorescence Microscopy (NGFM)**, Beijing, China.
+- **[2026] China Conference on Image and Graphics (CCIG)**, Guangzhou, China.
+
+
 💻 Activities / Service
 ======
 **Professional Membership:**
 - Student Member of **IEEE**, **IEEE Industrial Electronics Society ([IES](https://www.ieee-ies.org/))**, **China Society of Image and Graphics ([CSIG](https://www.csig.org.cn/))**
+- Member of the **Chinese Association for Artificial Intelligence([CAAI](https://www.caai.cn/)) Young Professionals Committee**
 
 **Conference Reviewer:**  
 - AAAI Program Committee Members (PC) (AAAI Conference on Artificial Intelligence)
